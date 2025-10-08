@@ -1,0 +1,17 @@
+/* src/styles/YieldPage.module.css */
+.custom-dropdown-toggle,
+.custom-dropdown-menu {
+  width: 600px; /* Set width for both the dropdown toggle and menu */
+}
+.dropdown-toggle {
+    background-color: white;
+    border-color: black;
+    color: black;
+  }
+  
+  .dropdown-menu {
+    background-color: white;
+    border-color: black;
+    color: black;
+  }
+  
